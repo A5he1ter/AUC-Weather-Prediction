@@ -71,6 +71,8 @@ Start client 3 in the third terminal:
 python3 client.py --partition-id 2
 ```
 
+If you're using a Linux or Unix-like system, you can directly execute the `run.sh` file.
+
 ## Thanks
 
 Thank you to the authors of the Flower framework and to the providers of the Australian rainfall data.
