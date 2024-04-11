@@ -65,6 +65,9 @@ Start client 2 in the second terminal:
 python3 client.py --partition-id 1
 ```
 
+Start client 3 in the third terminal:
+`python3 client.py --partition-id 2`
+
 ## Thanks
 
 Thank you to the authors of the Flower framework and to the providers of the Australian rainfall data.
