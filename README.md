@@ -1,4 +1,4 @@
-# AUC weather prediction with federated learning
+# Australian weather prediction with federated learning
 
 This project is about rainfall prediction in Australia. It is based on the Flower framework with modifications to save the global model after each iteration and evaluate the trained global model.
 
