@@ -75,4 +75,4 @@ If you're using a Linux or Unix-like system, you can directly execute the `run.s
 
 ## Thanks
 
-Thank you to the authors of the Flower framework and to the providers of the Australian rainfall data.
+Thanks to the authors of the Flower framework and to the providers of the Australian rainfall data.
